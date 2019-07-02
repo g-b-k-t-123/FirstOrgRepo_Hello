@@ -1,5 +1,5 @@
 node(){
-  ws(d:\\test'){
+  ws('d:\\test'){
     bat 'echo Hello'
   }
 
